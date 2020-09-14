@@ -1,4 +1,6 @@
-<img alt="GoStack" src="https://storage.googleapis.com/golden-wind/bootcamp-gostack/header-desafios.png" />
+<h4 align="center">
+  <img alt="Original" title="Original" src=".github/Capa.png"/>
+</h4>
 
 <p align="center">
 
@@ -34,13 +36,6 @@
 Nesse desafio, foi desenvolvida uma aplicação, a GoRestaurant. Agora pratiquei o que aprendi até agora no React.js junto com TypeScript, praticando o conceito de CRUD (Create, Read, Update, Delete).
 
 Essa será uma aplicação que irá se conectar a uma fake API, e exibir os pratos de comida criados e permitir a criação, remoção e atualização desses pratos.
-
-
-## 🎨 Layout
-
-<h4 align="center">
-  <img alt="Original" title="Original" src=".github/Capa.png"/>
-</h4>
 
 ## 🔨 Tecnologias:
 
