@@ -103,7 +103,9 @@ $ yarn test
 
 Este projeto esta sobe a licença MIT. Veja a [LICENÇA][license] para saber mais.
 
+<h4 align="center">
 Feito com ❤️ por Cintia Zago 👋🏽 [Entre em contato!](https://www.linkedin.com/in/cintiazago/)
+</h4>
 
 [nodejs]: https://nodejs.org/
 [express]: https://expressjs.com/
